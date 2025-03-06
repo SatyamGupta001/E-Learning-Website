@@ -24,7 +24,7 @@ This is an Elearning Platform built using the MERN (MongoDB, Express.js, React.j
 - **Chakra-UI**: React components for implementing Google's Material Design.
 
 ### Home Page
-![Home Page](/screenshots/home_page.png)
+![Home Page]("D:\Elearning-Platform-Using-MERN-main\screenshots\home_page.png")
 
 ### Sign Up Page
 ![Sign Up Page](/screenshots/signup_page.png)
